@@ -1,2 +1,2 @@
-# go_exercises
-Learning Golang exercises and challenges.
+# Golang Exercises and Challenges
+##Learning Golang exercises and challenges.
