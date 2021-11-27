@@ -5,8 +5,6 @@ import (
 	"sort"
 )
 
-// var arr1 = []int32{-1, 5, 10, 20, 28, 3}
-// var arr2 = []int32{26, 134, 135, 15, 17}
 
 func minAbsDiff(arr []int32) int32 {
 	var f foo
